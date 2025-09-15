@@ -9,7 +9,7 @@
 
 ## 🔥 ตัวอย่างเกม
 
-![Screenshot](https://github.com/Jessadaruk/SwordMan/blob/main/Tab.png)
+![Screenshot](https://github.com/Jessadaruk/UPdate-SwordMan/blob/main/TabHeart.png)
 
 
 ## 🧩 ระบบในเกม
